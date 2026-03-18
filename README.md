@@ -1,3 +1,9 @@
+## 🎥 Demonstração
+
+Veja o funcionamento do app:
+
+https://github.com/user-attachments/assets/demo-app
+
 # 📡 EntityServiceCommunication
 
 ## 📌 Descrição
