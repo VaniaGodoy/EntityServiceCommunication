@@ -1,8 +1,4 @@
-# Screenshots 
-
-![Tela Principal](screenshotCommunication.png)
-
-## 📡 EntityServiceCommunication
+# 📡 EntityServiceCommunication
 
 ## 📌 Descrição
 
