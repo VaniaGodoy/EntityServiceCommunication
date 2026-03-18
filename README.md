@@ -53,5 +53,4 @@ Este projeto foi desenvolvido para funcionar em conjunto com o aplicativo client
 
 ---
 
-Vania Godoy
-Projeto acadêmico - Desenvolvimento Mobile - IFSP Câmpus São Carlos
+Vania Godoy - Projeto acadêmico - Desenvolvimento Mobile - IFSP Câmpus São Carlos
